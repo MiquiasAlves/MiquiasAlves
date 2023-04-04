@@ -6,5 +6,3 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiquiasAlves&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&bg&icon_color=1E90FF&text_color=c9d1d9&bg_color=778899" alt="Miquias Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiquiasAlves&layout=compact&hide_border=true&title_color=c9d1d9&bg&text_color=c9d1d9&bg_color=778899" />
 </div>
-
-![Snake animation](https://github.com/MiquiasAlves/MiquiasAlves/blob/output/github-contribution-grid-snake.svg)
