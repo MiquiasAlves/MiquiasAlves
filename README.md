@@ -12,3 +12,17 @@
 <div>
     <a href="https://www.linkedin.com/in/miquiasalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
+
+👨🏼‍💻 Programming is my passion and every moment I am fascinated to discover what it is capable of 
+
+- Looking for challenging projects
+
+- Student of Computer Science
+
+- Experience in Python languages 
+
+- I am prepared to solve the problem 
+
+- Constantly learning new languages and technologies 
+
+
