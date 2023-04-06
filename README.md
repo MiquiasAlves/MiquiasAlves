@@ -9,9 +9,6 @@
 
 ##
 
-<div>
-    <a href="https://www.linkedin.com/in/miquiasalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-</div>
 
 👨🏼‍💻 Programming is my passion and every moment I am fascinated to discover what it is capable of and
 my admiration for software development only grows with each line of code written.
@@ -25,4 +22,11 @@ my admiration for software development only grows with each line of code written
 - I am prepared to solve the problem
 
 - Constantly learning new languages and technologies
+
+##
+
+<div>
+    <a href="https://www.linkedin.com/in/miquiasalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+</div>
+
 
