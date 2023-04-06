@@ -17,7 +17,7 @@ my admiration for software development only grows with each line of code written
 
 - Student of Computer Science
 
-- Experience in Python languages
+- Experience in Python languages <img align="center" alt="lana-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 - I am prepared to solve the problem
 
