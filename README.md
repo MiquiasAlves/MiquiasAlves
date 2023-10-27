@@ -10,8 +10,7 @@
 ##
 
 
-👨🏼‍💻 Programming is my passion and every moment I am fascinated to discover what it is capable of and
-my admiration for software development only grows with each line of code written.
+👨🏼‍💻 Programming is my passion and at every moment I am fascinated to discover what it is capable of and my admiration for Software Development and Testing only grows with each line of code written and each bug fixed.
 
 - Looking for challenging projects
 
